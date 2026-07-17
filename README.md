@@ -8,7 +8,7 @@
 
 <div align="center">
  
- 🔭 Actualmente me desempeño como **Desarrollador Backend**
+ 🔭 Actualmente me desempeño como **Desarrollador Senior Full Stack**
  
  🌱 Estoy aprendiendo **AI, AWS, DEVOPS y más**
 
