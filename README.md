@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=32&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&lines=¡Hola!+Soy+Max+Anthony+👋;Senior+Full+Stack+Developer;Construyendo+soluciones+que+escalan" alt="Presentación animada" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=32&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&lines=¡Hola!+Soy+Max+👋;Senior+Full+Stack+Developer;Construyendo+soluciones+que+escalan" alt="Presentación animada" />
 
 ### Desarrollador Full Stack desde Perú 🇵🇪
 
