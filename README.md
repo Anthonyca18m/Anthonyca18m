@@ -10,9 +10,9 @@
  
  🔭 Actualmente me desempeño como **Desarrollador Backend**
  
- 🌱 Estoy aprendiendo **Docker, Python, AWS y más**
+ 🌱 Estoy aprendiendo **AI, AWS, DEVOPS y más**
 
-💬 Tengo experiencia en **Node.js, Laravel, Vue JS, Oracle, MSSQL... entre otros.**
+💬 Tengo experiencia en **Kubernetes, Docker, Spring boot, Laravel, Vue JS, Oracle, MSSQL... entre otros.**
 
 ⚡ Frase mítica **Lo que puede pasar, va a pasar.**
 
@@ -48,7 +48,7 @@
       Estudiando...
     </div>
     <br>
-    <img src="https://skillicons.dev/icons?i=docker,kubernetes,aws" />
+    <img src="https://skillicons.dev/icons?i=ai,aws" />
 </div>
 
 <br/>
